@@ -40,7 +40,7 @@ if __name__ == "__main__":
     #有效文件格式
     '''
     maxSize = 640 
-    carpetaImagenes = 'example/'
+    carpetaImagenes = 'example1/'
     debug = False
     outName = "jirafa"
     validFile = ['jpg','png','JPG'] 
